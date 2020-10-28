@@ -9,6 +9,7 @@ function App() {
         <Prop lectureName="React lecture" topics="Dom, functional components and passing props"/>
         {/* <Prop topics="Dom, functional components and passing props"/> */}
         <St />
+        
     </div>
 
   );
